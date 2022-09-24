@@ -1,3 +1,4 @@
+#This is an incomplete file for the final lab in openshift course D0180 4.10
 FROM ubi8/ubi:8.5
 LABEL description ="This container file is created y Sajjad"
 MAINTAINER "Sajjad Paracha" <sajadparacha@gmail.com>
